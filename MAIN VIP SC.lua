@@ -15,6 +15,9 @@ gg.setVisible(false)
 gg.setRanges(gg.REGION_CODE_APP)  
 gg.clearResults()
 gg.searchNumber(89,4)
+xx=gg.getResults(gg.getResultsCount())
+gg.clearResults()
+
 credit = "                             💀 𝙎𝘾𝙍𝙄𝙋𝙏 𝙉𝙄 𝙁𝙍𝘼𝙅\n"
 gamename = "                             🎮 𝘾𝙋𝙈 𝘾𝙊𝙈𝙋𝘼𝙏𝙄𝘽𝙇𝙀 𝙑𝙀𝙍𝙎𝙄𝙊𝙉 𝟭𝟯.𝟲\n"
 version = "                              📄 𝙈𝙀𝘿𝙔𝙊 𝙑𝙄𝙋 𝙎𝘾𝙍𝙄𝙋𝙏\n"
