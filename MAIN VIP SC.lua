@@ -5059,7 +5059,7 @@ function SOCIAL()
  end
 
 function DT()
-    gg.alert(os.date("┏━━━━━━━━━༻MEDYO VIP༺━━━━━━━━━━━┓\n\n+ 🗓️ date: %B/%d/%Y\n\n+ ⏲️ time: %X:%p \n\n+⚠️ SCRIPT EXPIRATION SEPTEMBER 25, 11:59PM\n\n┗━━━━━━━━━━༻🇵🇭༺━━━━━━━━━━━━━━━┛"))
+    gg.alert(os.date("┏━━━━━━━━━༻MEDYO VIP༺━━━━━━━━━━━┓\n\n+ 🗓️ date: %B/%d/%Y\n\n+ ⏲️ time: %X:%p \n\n+⚠️ SCRIPT EXPIRATION OCTOBER 10, 11:59PM\n\n┗━━━━━━━━━━༻🇵🇭༺━━━━━━━━━━━━━━━┛"))
     menu9()
    end
 
